@@ -1,0 +1,5 @@
+{
+  "require": {
+    "devster/ubench": "~2.0.0"
+  }
+}
